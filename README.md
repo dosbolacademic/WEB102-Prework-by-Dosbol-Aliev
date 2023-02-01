@@ -10,13 +10,13 @@ Time spent: **20** hours spent in total
 
 The following **required** functionality is completed:
 
-* [ ] Image and introductory message displayed on the screen
-* [ ] Button displayed on the screen
-* [ ] Toast with a message appears when the button is pressed 
+* [X] Image and introductory message displayed on the screen
+* [X] Button displayed on the screen
+* [X] Toast with a message appears when the button is pressed 
 
 The following **optional** features are implemented:
 
-* [ ] List anything else you can do to improve the app functionality!
+* [X] List anything else you can do to improve the app functionality!
 
 ## Video Walkthrough
 
